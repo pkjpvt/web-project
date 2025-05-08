@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+.container
+{
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    width: 100%;
+}
+.nav
+{
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+.wrapper
+{
+    width: 100%;
+    min-height: 50vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper h3
+{
+    margin-bottom: 20px;
+}
+
+.taking
+{
+    margin-bottom: 10px;
+
+}
+
+input
+{
+    padding: 10px;
+}
+
+textarea
+{
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
